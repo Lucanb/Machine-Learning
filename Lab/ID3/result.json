@@ -1,0 +1,77 @@
+{
+  "attribute": 1,
+  "middle_value": 0.44999999999999996,
+  "children": {
+    "lt": {
+      "result": "Nu"
+    },
+    "gt": {
+      "attribute": 1,
+      "middle_value": 1.15,
+      "children": {
+        "lt": {
+          "result": "Nu"
+        },
+        "gt": {
+          "attribute": 1,
+          "middle_value": 1.7999999999999998,
+          "children": {
+            "lt": {
+              "result": "Nu"
+            },
+            "gt": {
+              "attribute": 1,
+              "middle_value": 2.0999999999999996,
+              "children": {
+                "lt": {
+                  "result": "Nu"
+                },
+                "gt": {
+                  "attribute": 1,
+                  "middle_value": 2.5999999999999996,
+                  "children": {
+                    "lt": {
+                      "result": "Da"
+                    },
+                    "gt": {
+                      "attribute": 0,
+                      "children": {
+                        "SiteDeSocializare": {
+                          "result": "Nu"
+                        },
+                        "Ma\u015finaAlimentat\u0103CuCombustibilBio": {
+                          "attribute": 1,
+                          "middle_value": 4.5,
+                          "children": {
+                            "lt": {
+                              "result": "Da"
+                            },
+                            "gt": {
+                              "attribute": 1,
+                              "middle_value": 5.85,
+                              "children": {
+                                "lt": {
+                                  "result": "Nu"
+                                },
+                                "gt": {
+                                  "result": "Da"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "NanoVaccin": {
+                          "result": "Da"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
